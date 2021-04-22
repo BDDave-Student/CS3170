@@ -1,5 +1,5 @@
-# CS3170
-The projects worked on for CS3170: Mobile Apps Development focused on Object Oriented Programming using Swift.  
+# CS3170:  Mobile Apps Development
+The projects focused on Object Oriented Programming using Swift and introduces OOP concepts to students with best and worst practices.  
 
 ## Project 00
 An introductory program to XCode development tools and the Swift programming language.  The project uses MVC to implement a damage calculator based from a target's armor rating and the attacker's defense to display how much damage would be taken from a hit.  
